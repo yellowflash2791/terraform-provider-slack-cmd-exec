@@ -20,21 +20,19 @@ Slack Workspace with the ability to create webhooks
 
 ### Build the Provider
 
-  cd slack-exec-terraform-provider
+      cd slack-exec-terraform-provider
 
-  go mod init terraform-provider-slack-cmd-exec
+      go mod init terraform-provider-slack-cmd-exec
 
-  go mod tidy 
+      go mod tidy 
 
-  make install
+      make install
 
 
 ## Usage 
 
-    Refer examples/main.tf and examples/data.tf
-
-    enter the your slack hook and command to execute in the the data.tf file
-
-    then you can run ## terraform init and ## terraform plan
-
+### Refer examples/main.tf and examples/data.tf
+    
+            
+    
     
