@@ -32,6 +32,16 @@ Slack Workspace with the ability to create webhooks
 ## Usage 
 
 ### Refer examples/main.tf and examples/data.tf
+
+    terraform {
+          required_providers {
+                slack-cmd-exec = {
+                                      source = "github.com/terraform-provider-slack-cmd-exec/slack-cmd-exec"
+                                      version = "0.2.0" # use the version that you need
+                }
+          }
+    }
+
     
             
     
