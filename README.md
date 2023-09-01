@@ -23,13 +23,13 @@ Slack Workspace with the ability to create webhooks
 
 ### Build the Provider
 
-      cd slack-exec-terraform-provider
+    cd slack-exec-terraform-provider
 
-      go mod init terraform-provider-slack-cmd-exec
+    go mod init terraform-provider-slack-cmd-exec
 
-      go mod tidy 
+    go mod tidy 
 
-      make install
+    make install
 
 
 ## Usage 
