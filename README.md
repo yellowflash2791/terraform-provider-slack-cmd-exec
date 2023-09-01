@@ -31,4 +31,10 @@ Slack Workspace with the ability to create webhooks
 
 ## Usage 
 
-  
+    Refer examples/main.tf and examples/data.tf
+
+    enter the your slack hook and command to execute in the the data.tf file
+
+    then you can run ## terraform init and ## terraform plan
+
+    
