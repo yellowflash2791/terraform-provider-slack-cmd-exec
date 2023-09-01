@@ -4,6 +4,9 @@
 
 This Terraform provider allows you to execute shell commands and send their output to a Slack channel automatically.
 
+## 🚨 Disclaimer 🚨
+
+This project is intended for educational purposes only. The authors and contributors are not responsible for any malicious use or damages that may be done using this tool. Use responsibly.
 
 ## Prerequisites
 Go 1.16+
