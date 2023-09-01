@@ -7,7 +7,9 @@ This Terraform provider allows you to execute shell commands and send their outp
 
 ## Prerequisites
 Go 1.16+
+
 Terraform 0.13+
+
 Slack Workspace with the ability to create webhooks
 
 ## Installation
